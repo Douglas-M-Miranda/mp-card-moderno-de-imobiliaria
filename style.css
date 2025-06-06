@@ -1,0 +1,19 @@
+:root {
+    --titulo-color: #000;
+    --texto-color: #6E6E6E;
+    --textoTag-color: #4B5563;
+    --fundoTag-color: #6E6E6E;
+    --fundoBotao-color: #059669; 
+    --textoBotao-color: #ffffff;
+    --fundoBotaoHover-color: #ffffff;
+    --textoBotaoHover-color: #059669;
+    --fundoPagina-color: #A8E6CF;
+    --fundocard-color: #ffffff;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Inter", sans-serif;
+}
